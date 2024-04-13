@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Linkedin</string>
+    <string name="join_now">Join now</string>
+    <string name="join_with_google">Join with Google</string>
+    <string name="sign_in">Sign in</string>
+
+</resources>

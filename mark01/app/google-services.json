@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "470235905270",
+    "project_id": "mark01-f9d14",
+    "storage_bucket": "mark01-f9d14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470235905270:android:0af1ea1eae5be0ab2700d7",
+        "android_client_info": {
+          "package_name": "com.vishcustom.mark01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470235905270-s2nalu7gsf5uag618l61q4v39mk0inn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGk4nKvBP8-CoENW3_wr1o-4QpO0qSvLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470235905270-s2nalu7gsf5uag618l61q4v39mk0inn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

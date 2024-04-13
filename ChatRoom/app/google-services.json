@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "749216974173",
+    "project_id": "chatroom-497f5",
+    "storage_bucket": "chatroom-497f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749216974173:android:e728467deb0d715a38d4b4",
+        "android_client_info": {
+          "package_name": "quiz.vishcustom.chatroom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWoLi0INYm5pJTYj2DLJrfA4sppbdRtY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749216974173:android:02222e294a3b435438d4b4",
+        "android_client_info": {
+          "package_name": "quiz.vishcustom.vgram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWoLi0INYm5pJTYj2DLJrfA4sppbdRtY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
